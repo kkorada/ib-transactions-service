@@ -1,0 +1,20 @@
+id,account_id,type,amount,date_of_transaction,description,status
+1,1,credit,1693,2019-11-08,Savings credited,posted
+2,1,debit,221,2019-11-08,Seamless Metal deposit,posted
+3,1,debit,10,2019-11-08,7Eleven Store,posted
+4,1,debit,40,2019-11-08,TLS Ov-chipkart,posted
+5,1,debit,56,2019-11-09,Dadi Foodcenter-123,posted
+6,1,debit,34,2019-11-09,Nandos-123,posted
+7,1,debit,81,2019-11-09,Coles Inc 1237,posted
+8,1,debit,127,2019-11-09,Nandos-123,posted
+9,1,debit,50,2019-11-09,Nandos-123,posted
+10,1,debit,174,2019-11-09,Lid Vieunt Pass 23,posted
+11,2,credit,8243,2019-11-08,Salary credited,posted
+12,2,debit,2136,2019-11-08,"Krudivat 7123,PAS6123",posted
+13,2,debit,238,2019-11-08,"ALBERT HEITH, 123",posted
+14,2,debit,26,2019-11-09,Toymaker INC,posted
+15,2,debit,28,2019-11-09,"Frosties, 1238",posted
+16,2,debit,31,2019-11-09,Coles Inc 1237,posted
+17,2,debit,33,2019-11-09,Coles Inc 1237,posted
+18,2,debit,363,2019-11-09,Disney Movie Market,posted
+19,2,debit,388,2019-11-09,Danny 890123,posted
